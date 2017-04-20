@@ -22,9 +22,14 @@ public class App {
         }
 
         System.out.println("Hello  enie nie" +
-                "enienienn " +
-                "Wo" +
-                "rld! enetrsnet" +
+                "Cokolwiek mozna tutaj wpisac :o" +
+                "1
+                "2
+                "3
+                "4
+                "5"
+                "6"
+                "7" 
                 "rnt rtrstrstrt  " +
                 "srttrstrst");
     }
