@@ -24,12 +24,13 @@ public class App {
         System.out.println("Hello  enie nie" +
                 "Cokolwiek mozna tutaj wpisac :o" +
                 "1
-                "2
-                "3
-                "4
-                "5"
+                "2jkhsadkjfh
+
+                "3sdfsdf
+                "4sdf
+                "5sdf"
                 "6"
-                "7" 
+                "7"
                 "rnt rtrstrstrt  " +
                 "srttrstrst");
     }
