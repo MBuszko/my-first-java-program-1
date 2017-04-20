@@ -25,7 +25,7 @@ public class App {
                 "Cokolwiek mozna tutaj wpisac :o" +
                 "1
                 "2jkhsadkjfh
-
+"345345345345345345345345345345345345345345353453453454534345345345345345"
                 "3sdfsdf
                 "4sdf
                 "5sdf"
